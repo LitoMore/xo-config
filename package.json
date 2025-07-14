@@ -1,0 +1,27 @@
+{
+	"name": "@litomore/xo-config",
+	"type": "module",
+	"version": "0.0.0",
+	"description": "XO config for LitoMore",
+	"exports": "./index.js",
+	"files": [
+		"index.js"
+	],
+	"scripts": {
+		"test": "xo"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/LitoMore/xo-config.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/LitoMore/xo-config/issues"
+	},
+	"homepage": "https://github.com/LitoMore/xo-config#readme",
+	"devDependencies": {
+		"xo": "^1.1.1"
+	}
+}
