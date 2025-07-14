@@ -1,7 +1,7 @@
 {
 	"name": "@litomore/xo-config",
 	"type": "module",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "XO config for LitoMore",
 	"exports": "./index.js",
 	"files": [
